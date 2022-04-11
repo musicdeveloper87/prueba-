@@ -1,0 +1,50 @@
+[
+{
+    "type": "header",
+    "version": "5.1.3",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "login"
+},
+{
+    "type": "table",
+    "name": "usuarios",
+    "database": "login",
+    "data": 
+[
+{
+    "ID": "1",
+    "fullname": "sergio",
+    "password": "93279e3308bdbbeed946fc965017f67a",
+    "email": ""
+},
+{
+    "ID": "2",
+    "fullname": "jorge",
+    "password": "52c7212b4c1ef4c1c21b4d5181a66b0f",
+    "email": "andyguitarjazz@hotmail.com.ar"
+},
+{
+    "ID": "3",
+    "fullname": "pedro",
+    "password": "81dc9bdb52d04dc20036dbd8313ed055",
+    "email": "pedro@yahoo.com"
+},
+{
+    "ID": "4",
+    "fullname": "jaime",
+    "password": "02b1be0d48924c327124732726097157",
+    "email": "jaime@hotmail.com"
+},
+{
+    "ID": "5",
+    "fullname": "carlos",
+    "password": "827ccb0eea8a706c4c34a16891f84e7b",
+    "email": "carlos@hotmail.com"
+}
+]
+
+}
+]
